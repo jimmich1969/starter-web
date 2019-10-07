@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <head>
+<<<<<<< HEAD
+	<title>Whazzzzzup Yo</title>
+=======
 	<title>Mo Trouble</title>
+>>>>>>> fb adding trouble
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -12,7 +16,7 @@
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
+	<!-- Content xxxxxxx Goes Here -->
 		<p>
 			Just some content
 			Changes for bigtrouble rebaser
