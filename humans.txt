@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jim Michener    james.michener@transcendent.ai
 
 # THANKS
 
-    <name>
+    All my students
 
 # TECHNOLOGY COLOPHON
 
